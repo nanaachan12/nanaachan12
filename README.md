@@ -3,11 +3,11 @@
 
 Let me introduce myself, my name is **Nabila Naurotul Ummah**.<br>
 
-Students of the Information Systems program at the Universitas Terbuka <br>
-Who have the ability to development interfaces and website design. <br>
-And is very interested in Front-End Development. <br>
-Experienced in the use of various web technologies such as HTML, CSS, and JavaScript.<br>
-Always eagerh to learn the latest trends in web design and committed to producing responsive, user-friendly work.<br>
+Students of the Information Systems program at Universitas Terbuka <br>
+With the ability to develop interfaces and website designs. <br>
+Highly interested in Front-End Development. <br>
+Experienced in using various web technologies such as HTML, CSS, and JavaScript. <br>
+Always eager to learn the latest trends in web design and committed to producing responsive, user-friendly work. <br>
 
 
 ### Skill
