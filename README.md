@@ -55,6 +55,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanaachan12&theme=tokyo-night&hide_border=true"/>
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nanaachan12/nanaachan12/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ### 🌐 Connect With Me
