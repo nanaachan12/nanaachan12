@@ -19,44 +19,53 @@
 
 ---
 
-### 🛠️ Tech Stack  
+## 🚀 Tech Stack
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java" />
-  <br/>
-  <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,nodejs,figma" />
+### 💻 Front-End
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,vue,vite,tailwind&perline=9"/>
+</p>
+
+### 🎨 UI/UX Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma&perline=6"/>
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&perline=6"/>
 </p>
 
 ---
 
-### 📊 GitHub Statistics  
+### 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/nanaachan12">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nanaachan12&show_icons=true&theme=omni&count_private=true" alt="Nabila's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanaachan12&layout=compact&theme=omni" alt="Top Languages"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nanaachan12&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nanaachan12&theme=omni&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nanaachan12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanaachan12&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me  
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nabila-naurotul" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/na.nachn_/?hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:nabilanaurotul241@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+  <a href="https://www.instagram.com/na.nachn_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
