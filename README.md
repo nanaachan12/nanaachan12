@@ -1,7 +1,7 @@
-<!-- 🌸 Nabila Naurotul | Front-End Developer Portfolio 🌸 -->
+<!-- 🌸 Nabila Naurotul | Frontend & Mobile Developer Portfolio 🌸 -->
 
 <h1 align="center">Hi there, I'm <span style="color:#ff69b4;">Nabila Naurotul</span> 👋</h1>
-<h3 align="center">✨ Front-End Developer | Web Design Enthusiast | Lifelong Learner ✨</h3>
+<h3 align="center">✨ Frontend & Mobile Developer | UI/UX Enthusiast | Lifelong Learner ✨</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding animation"/>
@@ -11,32 +11,46 @@
 
 ### 💫 About Me  
 
-👩‍💻 I'm **Nabila Naurotul Ummah**, an **Information Systems** student at **Universitas Terbuka**, passionate about **Front-End Development** and **UI/UX Design**.  
-🎨 I love creating clean, modern, and responsive websites that combine **functionality and beauty**.  
-💡 Skilled in using **HTML, CSS, JavaScript, TypeScript**, and modern frameworks like **React, Vue, and Tailwind CSS**.  
-🚀 Constantly exploring new tools and technologies to enhance my development workflow.  
-🌷 My mission is to craft digital experiences that feel smooth, intuitive, and delightful to users.  
+👩‍💻 I'm **Nabila Naurotul Ummah**, an **Information Systems** student at **Universitas Terbuka**, passionate about **Frontend & Mobile Development** and **UI/UX Design**.  
+🎨 I specialize in crafting clean, modern, and responsive web & mobile applications that seamlessly blend **functionality and aesthetics**.  
+💡 Proficient across modern web & mobile technologies like **React.js, Next.js, Flutter, TypeScript, and Tailwind CSS**, with a solid foundation in backend services like **Node.js, Laravel, and MySQL**.  
+🚀 Constantly exploring innovative tools and best practices to streamline development and deliver scalable digital solutions.  
+🌷 My mission is to design and build digital experiences that are intuitive, smooth, and delightful for every user.  
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Front-End
-
+### 📱 Frontend & Mobile Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,vue,vite,tailwind&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,js,ts,tailwind,html,css,vite&perline=9" alt="Frontend & Mobile Skills"/>
+</p>
+<p>
+  <code>React.js</code> • <code>Next.js</code> • <code>Flutter</code> • <code>JavaScript (ES6+)</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>HTML5 / CSS3</code> • <code>Vite</code>
 </p>
 
 ### 🎨 UI/UX Design
-
 <p>
-<img src="https://skillicons.dev/icons?i=figma&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=figma&perline=6" alt="UI/UX Skills"/>
+</p>
+<p>
+  <code>Figma</code> • <code>Responsive Design</code> • <code>Auto Layout</code> • <code>Prototyping</code> • <code>Design Systems</code>
 </p>
 
-### 🛠 Tools
-
+### ⚙️ Backend & System
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql,postman&perline=6" alt="Backend Skills"/>
+</p>
+<p>
+  <code>Node.js</code> • <code>API Integration & REST APIs</code> • <code>PHP</code> • <code>Laravel</code> • <code>MySQL</code>
+</p>
+
+### 🛠️ Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm,yarn&perline=6" alt="Tools & Workflow"/>
+</p>
+<p>
+  <code>Git & GitHub</code> • <code>VS Code</code> • <code>Vercel</code> • <code>NPM / Yarn</code>
 </p>
 
 ---
@@ -44,13 +58,12 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nanaachan12&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nanaachan12&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nanaachan12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nanaachan12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Profile Trophies"/>
 </p>
-
 
 ---
 
@@ -58,11 +71,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nabila-naurotul" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
   <a href="https://www.instagram.com/na.nachn_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </p>
 
@@ -77,5 +89,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thank%20You%20For%20Visiting!%20🌸&fontColor=fff&fontSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thank%20You%20For%20Visiting!%20🌸&fontColor=fff&fontSize=20" alt="Footer Banner"/>
 </p>
